@@ -12,7 +12,7 @@ After 3 steps, it returns to the original source.
 
 ## Demo
 
-![poke-quine demo](./assets/demo.gif)
+![poke-quine demo](./demo.gif)
 
 ## AA Sources
 
